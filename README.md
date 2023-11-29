@@ -6,7 +6,7 @@ This repository contains the AWS Cloud Development Kit (AWS CDK) script to provi
 
 The architecture is designed to handle receipt data, validate it, and interface with external logistics and tax services. It also archives data to S3 for long-term storage and analysis with Amazon Athena.
 
-![Receipt Service High-Level Architecture](Receipt service HLA.png)
+![Receipt Service High-Level Architecture](Receipt_service_HLA.png)
 
 Key components:
 
